@@ -1,0 +1,14 @@
+{
+  "name": "qunit-begin",
+  "version": "1.0.0",
+  "description": "Repro qunit issue",
+  "main": "index.js",
+  "author": "Asa Kusuma",
+  "license": "MIT",
+  "scripts": {
+    "test": "qunit index.js"
+  },
+  "dependencies": {
+    "qunit": "^2.10.0"
+  }
+}
